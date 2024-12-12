@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weiguang Pang (庞为光)"
 description              : &description "personal description"
@@ -26,20 +26,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "NSCC-JN (国家超算-济南)"
   location         : "Jinan, China"
-  employer         : "Red Brick University"
+  employer         : "Qilu University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ytweiguang@126.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=3qWjz5MAAAAJ&hl=en&authuser=1"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0208-4677 "
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-
+  DBLP             : "https://dblp.org/pid/301/3561.html"
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
